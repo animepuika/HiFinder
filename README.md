@@ -25,7 +25,6 @@ npm run dev
 ## Dev Notes
 - API routes: pp/api/*.
 - Map: src/components/Map.tsx.
-- 420 layer is opt-in, age-gated, and geofenced via REGION_ALLOWLIST.
 
 ## Cost controls
 - Supabase: use Row Level Security; avoid RPC loops; set usage limits/alerts in Project Settings → Billing → Spend caps and alerts; use server-side rate limits (added) and avoid polling.
