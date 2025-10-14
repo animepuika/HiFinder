@@ -1,6 +1,6 @@
 # HiFinder
 
-A geosocial map to share relaxing/vibe spots, leave feedback, and match with friends based on vibe preferences—plus an optional, hidden 420-friendly layer for users in legal regions (strictly opt-in, age-gated, geofenced).
+A geosocial map to share relaxing/vibe spots, leave feedback, and match with friends based on vibe preferences—plus.
 
 ## Stack
 - Next.js 14 (App Router)
