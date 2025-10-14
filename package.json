@@ -1,0 +1,40 @@
+{
+  "name": "hifinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@mapbox/mapbox-gl-geocoder": "^5.1.2",
+    "@sentry/nextjs": "^10.19.0",
+    "@supabase/supabase-js": "^2.75.0",
+    "mapbox-gl": "^3.15.0",
+    "next": "^14.2.33",
+    "posthog-js": "^1.275.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "supercluster": "^8.0.1",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/mapbox-gl": "^3.4.1",
+    "@types/node": "^24.7.2",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.37.0",
+    "eslint-config-next": "^15.5.5",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.14",
+    "typescript": "^5.9.3"
+  }
+}
